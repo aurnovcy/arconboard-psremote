@@ -5,7 +5,7 @@ There are two pre-requisites:
 Install-Module -Name Az.ConnectedMachine
 Enable PowerShell remoting with Enable-PSRemoting cmdlet. 
 
-Script
+`Script
 
 `$Computers = @("INSERT-COMPUTER-NAME-1", "INSERT-COMPUTER-NAME-2")
 $ResourceGroup = "INSERT-RESOURCE-GROUP-NAME"
